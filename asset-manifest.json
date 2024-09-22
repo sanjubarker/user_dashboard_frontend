@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjubarker/user_dashboard_frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/sanjubarker/user_dashboard_frontend/static/js/main.ca047faf.js",
+    "static/js/453.8ab44547.chunk.js": "/sanjubarker/user_dashboard_frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/sanjubarker/user_dashboard_frontend/index.html",
+    "main.e6c13ad2.css.map": "/sanjubarker/user_dashboard_frontend/static/css/main.e6c13ad2.css.map",
+    "main.ca047faf.js.map": "/sanjubarker/user_dashboard_frontend/static/js/main.ca047faf.js.map",
+    "453.8ab44547.chunk.js.map": "/sanjubarker/user_dashboard_frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca047faf.js"
+  ]
+}
